@@ -1,0 +1,28 @@
+# main links links
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  # - title: "News"
+  #   url: "/#-news"
+
+  - title: "Publications"
+    url: "/#-publications"
+
+  - title: "Competitions and Awards"
+    url: "/#-competitions-and-awards"
+
+  - title: "Experiments"
+    url: "/#-experiments"
+
+  - title: "Educations"
+    url: "/#-educations"
+
+  - title: "Services"
+    url: "/#-Services"
+ 
+
+  # - title: "Internships"
+  #   url: "/#-internships"
+
+
