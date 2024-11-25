@@ -123,7 +123,7 @@ Yimian Dai, Peiwen Pan, **Yuxuan Li**, et al.
 
 [Is Synthetic Data From Diffusion Models Ready for Knowledge Distillation?](https://arxiv.org/abs/2305.12954)
 **Preprint**.
-**Yuxuan Li\***, Zheng Li\*, Penghai Zhao, et al.
+Zheng Li\*, **Yuxuan Li\***, Penghai Zhao, et al.
 [[**Paper**]](https://arxiv.org/pdf/2305.12954) 
 
 [GrokLST: Towards High-Resolution Benchmark and Toolkit for Land Surface Temperature Downscaling](https://arxiv.org/abs/2409.19835)
