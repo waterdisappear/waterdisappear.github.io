@@ -54,7 +54,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/awd/2023_JIG.jpeg' alt="sym" width="100%"  >
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/awd/2023_JIG.jpeg' alt="sym" width="35%"  >
 </div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -63,7 +63,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/awd/19_fb_s2.jpg' alt="sym" width="100%"  >
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/awd/19_fb_s2.jpg' alt="sym" width="85%"  >
 </div></div>
 <div class='paper-box-text' markdown="1">
 
