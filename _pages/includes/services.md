@@ -1,3 +1,3 @@
 # 👥 Services
-- **Conference**: ICCV; NeurIPS; ACCV; etc.
-- **Journal**: IJCV; CVM; IEEE; etc.
+- **Conference**: ICCV; NeurIPS; CVPR; etc.
+- **Journal**: IEEE TPAMI; TCSVT; TGRS; IJCV.

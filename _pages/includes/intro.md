@@ -19,7 +19,7 @@
     I am a Ph.D. candidate in the VCIP Lab, College of Computer Science, Nankai University, under the supervision of Professors <a href="http://www.patternrecognition.cn/~jian/">Jian Yang</a>, <a href="https://implus.github.io/">Xiang Li</a>, and <a href="https://mmcheng.net/">Ming-Ming Cheng</a>. I hold a first-class honors master degree (4 years) in Computer Science from University College London (UCL).
   </p>
   <p>
-    My research interests focus on computer vision, remote sensing object detection, large models, and multi-modal learning. I am actively seeking research internship and postdoctoral opportunities worldwide. For inquiries about my research or collaboration opportunities, please feel free to reach out via email at <a href="mailto:yuxuan.li.17@ucl.ac.uk">yuxuan.li.17 [at] ucl.ac.uk.
+    My research interests focus on computer vision, remote sensing object detection, large models, and multi-modal learning. I am actively seeking research internship and postdoctoral opportunities worldwide. For inquiries about my research or collaboration opportunities, please feel free to reach out via email at <a href="mailto:yuxuan.li.17@ucl.ac.uk">yuxuan.li.17 [at] ucl.ac.uk</a>.
   </p>
 </div>
 

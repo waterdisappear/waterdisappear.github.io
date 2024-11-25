@@ -1,6 +1,6 @@
 # 🏆 Competitions and Awards
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/awd/2022_Jittor_c1.jpg' alt="sym" width="100%"  >
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/awd/2022_Jittor_c1.jpg' alt="sym" width="35%"  >
 </div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -14,7 +14,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/awd/2022_IACC_s2.jpg' alt="sym" width="100%"  >
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/awd/2022_IACC_s2.jpg' alt="sym" width="30%"  >
 </div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -29,7 +29,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/awd/2023_Jittor_t4.jpg' alt="sym" width="100%"  >
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/awd/2023_Jittor_t4.jpg' alt="sym" width="35%"  >
 </div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -42,7 +42,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/awd/2023_Jlin1_t5.png' alt="sym" width="100%"  >
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/awd/2023_Jlin1_t5.png' alt="sym" width="35%"  >
 </div></div>
 <div class='paper-box-text' markdown="1">
 
