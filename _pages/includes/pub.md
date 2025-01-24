@@ -115,6 +115,30 @@ The Spatial Group-wise Enhance (SGE) module improves CNN performance by generati
 
 # 📃 Others
 
+[SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection](https://arxiv.org/abs/2412.20665)
+**Preprint**, ***2024***.
+**Yuxuan Li**, Xiang Li, Yunheng Li, Yicheng Zhang, Yimian Dai, Qibin Hou, Ming-Ming Cheng, Jian Yang.
+[[**Paper**]](https://arxiv.org/abs/2412.20665)
+
+[DenseVLM: A Retrieval and Decoupled Alignment Framework for Open-Vocabulary Dense Prediction](https://arxiv.org/abs/2412.06244)
+**Preprint**, ***2024***.
+Yunheng Li, **Yuxuan Li**, Quansheng Zeng, Wenhai Wang, Qibin Hou, Ming-Ming Cheng.
+[[**Paper**]](https://arxiv.org/abs/2412.06244)
+
+[Strip R-CNN: Large Strip Convolution for Remote Sensing Object Detection](https://arxiv.org/abs/2501.03775)
+**Preprint**, ***2024***.
+Xinbin Yuan, Zhaohui Zheng, **Yuxuan Li**, Xialei Liu, Li Liu, Xiang Li, Qibin Hou, Ming-Ming Cheng
+[[**Paper**]](https://arxiv.org/abs/2501.03775)
+
+[RSAR: Restricted State Angle Resolver and Rotated SAR Benchmark](https://arxiv.org/abs/2501.04440)
+**Preprint**, ***2024***.
+Xin Zhang, Xue Yang, ***Yuxuan Li***, Jian Yang, Ming-Ming Cheng, Xiang Li
+[[**Paper**]](https://arxiv.org/abs/2501.04440)
+
+[GrokLST: Towards High-Resolution Benchmark and Toolkit for Land Surface Temperature Downscaling](https://arxiv.org/abs/2409.19835) 
+**Preprint**, ***2024***.
+Qun Dai, Chunyang Yuan, Yimian Dai, **Yuxuan Li**, Xiang Li, Kang Ni, Jianhui Xu, Xiangbo Shu, Jian Yang
+[[**Paper**]](https://arxiv.org/abs/2409.19835)
 
 [Pick of the Bunch: Detecting Infrared Small Targets Beyond Hit-Miss Trade-Offs via Selective Rank-Aware Attention](https://ieeexplore.ieee.org/abstract/document/10677425)
 **IEEE TGRS**, ***2024***. 
