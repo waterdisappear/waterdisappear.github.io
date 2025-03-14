@@ -1,7 +1,7 @@
 # 💻 Experiments
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sept 2020 - June 2021</div><img src='images/exp/exp1.png' alt="sym" width="75%"  >
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sept 2020 - June 2021</div><img src='images/exp/exp1.png' alt="sym" width="320"  >
 </div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -18,7 +18,7 @@
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Jun 2020 – Sept 2020</div><img src='images/exp/exp2.png' alt="sym" width="75%"  >
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Jun 2020 – Sept 2020</div><img src='images/exp/exp2.png' alt="sym" width="320"  >
 </div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -33,7 +33,7 @@
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Oct 2019 – May 2020</div><img src='images/exp/exp3.png' alt="sym" width="75%"  >
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Oct 2019 – May 2020</div><img src='images/exp/exp3.png' alt="sym" width="320"  >
 </div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -48,7 +48,7 @@
 
   
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Jun 2019 – Sep 2019</div><img src='images/exp/exp4.jpeg' alt="sym" width="75%"  >
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Jun 2019 – Sep 2019</div><img src='images/exp/exp4.jpeg' alt="sym" width="320"  >
 </div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -65,7 +65,7 @@
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MAY 2019 – JUN 2019</div><img src='images/exp/exp5.jpg' alt="sym" width="75%"  >
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MAY 2019 – JUN 2019</div><img src='images/exp/exp5.jpg' alt="sym" width="320"  >
 </div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -80,7 +80,7 @@
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sept 2018 – Apr 2019</div><img src='images/exp/exp6.png' alt="sym" width="75%"  >
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sept 2018 – Apr 2019</div><img src='images/exp/exp6.png' alt="sym" width="320"  >
 </div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -95,7 +95,7 @@
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Oct 2018 – Nov 2018</div><img src='images/exp/exp7.png' alt="sym" width="75%"  >
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Oct 2018 – Nov 2018</div><img src='images/exp/exp7.png' alt="sym" width="320"  >
 </div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -108,7 +108,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Feb 2018 – Apr 2018</div><img src='images/exp/exp8.png' alt="sym" width="75%"  >
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Feb 2018 – Apr 2018</div><img src='images/exp/exp8.png' alt="sym" width="320"  >
 </div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -121,7 +121,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OCT 2017 – DEC 2017</div><img src='images/exp/exp9.png' alt="sym" width="75%"  >
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OCT 2017 – DEC 2017</div><img src='images/exp/exp9.png' alt="sym" width="320"  >
 </div></div>
 <div class='paper-box-text' markdown="1">
 
