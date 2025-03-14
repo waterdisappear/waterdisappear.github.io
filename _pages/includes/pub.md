@@ -132,6 +132,13 @@ The Spatial Group-wise Enhance (SGE) module improves CNN performance by generati
 
 ---
 
+### [RSAR: Restricted State Angle Resolver and Rotated SAR Benchmark](https://arxiv.org/abs/2501.04440)
+**CVPR**, ***2024***  
+Xin Zhang, Xue Yang, **Yuxuan Li**, Jian Yang, Ming-Ming Cheng, Xiang Li  
+[[**Paper**]](https://arxiv.org/abs/2501.04440)  
+
+---
+
 ### [DenseVLM: A Retrieval and Decoupled Alignment Framework for Open-Vocabulary Dense Prediction](https://arxiv.org/abs/2412.06244)
 **Preprint**, ***2024***  
 Yunheng Li, **Yuxuan Li**, Quansheng Zeng, Wenhai Wang, Qibin Hou, Ming-Ming Cheng  
@@ -143,13 +150,6 @@ Yunheng Li, **Yuxuan Li**, Quansheng Zeng, Wenhai Wang, Qibin Hou, Ming-Ming Che
 **Preprint**, ***2024***  
 Xinbin Yuan, Zhaohui Zheng, **Yuxuan Li**, Xialei Liu, Li Liu, Xiang Li, Qibin Hou, Ming-Ming Cheng  
 [[**Paper**]](https://arxiv.org/abs/2501.03775)  
-
----
-
-### [RSAR: Restricted State Angle Resolver and Rotated SAR Benchmark](https://arxiv.org/abs/2501.04440)
-**Preprint**, ***2024***  
-Xin Zhang, Xue Yang, **Yuxuan Li**, Jian Yang, Ming-Ming Cheng, Xiang Li  
-[[**Paper**]](https://arxiv.org/abs/2501.04440)  
 
 ---
 
@@ -175,7 +175,7 @@ Zheng Li\*, **Yuxuan Li\***, Penghai Zhao, et al.
 ---
 
 ### [DenoDet: Attention as Deformable Multi-Subspace Feature Denoising for Target Detection in SAR Images](https://arxiv.org/abs/2406.02833)
-**Preprint**, ***2024***  
+**Transactions on Aerospace and Electronic Systems**, ***2024***  
 Yimian Dai, Minrui Zou, **Yuxuan Li**, et al.  
-[[**Paper**]](https://arxiv.org/abs/2406.02833)  
+[[**Paper**]](https://ieeexplore.ieee.org/abstract/document/10770564)  
 
