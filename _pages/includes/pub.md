@@ -7,7 +7,7 @@
 </div></div>
 <div class='paper-box-text' markdown="1">
 
-[LSKNet: A foundation lightweight backbone for remote sensing](https://link.springer.com/article/10.1007/s11263-024-02247-9)
+[LSKNet: A foundation lightweight backbone for remote sensing **(IJCV)**](https://link.springer.com/article/10.1007/s11263-024-02247-9)
 
 **Yuxuan Li**, Xiang Li\#, Yimian Dai, Qibin Hou, Li Liu,  Yongxiang Liu, Ming-Ming Cheng, Jian Yang\#
 
@@ -38,7 +38,7 @@ LSKNet can dynamically adjust its large spatial receptive field to better model 
 </div></div>
 <div class='paper-box-text' markdown="1">
 
-[APF-GAN:Exploring asymmetric pre-training and fine-tuning strategy for conditional generativeadversarial network.](https://go.gale.com/ps/i.do?id=GALE%7CA777600258&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=20960662&p=AONE&sw=w&userGroupName=anon%7E539354e6&aty=open-web-entry)
+[APF-GAN:Exploring asymmetric pre-training and fine-tuning strategy for conditional generativeadversarial network **(CVMJ)**](https://go.gale.com/ps/i.do?id=GALE%7CA777600258&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=20960662&p=AONE&sw=w&userGroupName=anon%7E539354e6&aty=open-web-entry)
 
 **Yuxuan Li**, Lingfeng Yang, Xiang Li\#
 
@@ -56,7 +56,7 @@ The APF-GAN model improves GAN-based image segmentation, surpassing GauGAN and w
 </div></div>
 <div class='paper-box-text' markdown="1">
 
-[Large Selective Kernel Network for Remote Sensing Object Detection](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Large_Selective_Kernel_Network_for_Remote_Sensing_Object_Detection_ICCV_2023_paper.html)
+[Large Selective Kernel Network for Remote Sensing Object Detection **(ICCV 2023)**](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Large_Selective_Kernel_Network_for_Remote_Sensing_Object_Detection_ICCV_2023_paper.html)
 
 **Yuxuan Li**, Qibin Hou, Zhaohui Zheng, Ming-Ming Cheng, Jian Yang\#, Xiang Li\#
 
@@ -89,7 +89,7 @@ LSKNet can dynamically adjust its large spatial receptive field to better model 
 </div></div>
 <div class='paper-box-text' markdown="1">
 
-[SARDet-100K: Towards Open-Source Benchmark and ToolKit for Large-Scale SAR Object Detection](https://arxiv.org/abs/2403.06534)
+[SARDet-100K: Towards Open-Source Benchmark and ToolKit for Large-Scale SAR Object Detection **(NeurIPS 2024 Spotlight)**](https://arxiv.org/abs/2403.06534)
 
 **Yuxuan Li**, Xiang Li\#, Weijie Li, Qibin Hou, Li Liu, Ming-Ming Cheng, Jian Yang\#
 
@@ -109,7 +109,7 @@ SARDet-100K, the first large-scale multi-class SAR object detection dataset, alo
 </div></div>
 <div class='paper-box-text' markdown="1">
 
-[Spatial group-wise enhance: Enhancing semantic feature learning in cnn](https://openaccess.thecvf.com/content/ACCV2022/html/Li_Spatial_Group-wise_Enhance_Enhancing_Semantic_Feature_Learning_in_CNN_ACCV_2022_paper.html)
+[Spatial group-wise enhance: Enhancing semantic feature learning in CNN **(ACCV 2022)**](https://openaccess.thecvf.com/content/ACCV2022/html/Li_Spatial_Group-wise_Enhance_Enhancing_Semantic_Feature_Learning_in_CNN_ACCV_2022_paper.html)
 
 **Yuxuan Li**, Xiang Li\#, Jian Yang
 
@@ -123,7 +123,7 @@ The Spatial Group-wise Enhance (SGE) module improves CNN performance by generati
 </div>
 </div>
 
-# 📃 Publications
+# 📃 Other Publications
 
 ### [SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection](https://arxiv.org/abs/2412.20665)
 **Preprint**, ***2024***  
