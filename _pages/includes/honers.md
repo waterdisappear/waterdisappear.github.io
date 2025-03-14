@@ -1,6 +1,6 @@
 # 🏆 Competitions and Awards
 
-<div class='paper-box'><div class='paper-box-image' style="text-align: right;"><div><div class="badge"></div><img src='images/awd/2022_Jittor_c1.jpg' alt="sym" width="35%"  >
+<div class='paper-box'><div class='paper-box-image' style="text-align: right;"><div><div class="badge"></div><img src='images/awd/2022_Jittor_c1.jpg' alt="sym" width="200" >
 </div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -14,7 +14,21 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image' style="text-align: right;"><div><div class="badge"></div><img src='images/awd/2022_IACC_s2.jpg' alt="sym" width="30%"  >
+<div class='paper-box'><div class='paper-box-image' style="text-align: right;"><div><div class="badge"></div><img src='images/awd/22_open-source.jpg' alt="sym" width="200"   >
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+- **2022**, **First Prize** of the 5th Creative Open-Source competition, 50,000 RMB bonus. 
+> * [summaries](https://zhuanlan.zhihu.com/p/583947132)
+> * [solutions](https://liveuclac-my.sharepoint.com/:p:/g/personal/zcablii_ucl_ac_uk/EeiiPOx1pmtNvEK5Fn4ShQcBXmzfvSQc9h0O9TVyh84CLA?e=rUlVaR)
+> * [code](https://github.com/zcablii/jittor-Torile-PG_SPADE)
+> * [certificate](https://github.com/IMPlus-PCALab/AICompetition/blob/76b90118ea185c829f6dfc45ff24837af58f349a/certificate/2022%E8%AE%A1%E5%9B%BE%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8C%91%E6%88%98%E8%B5%9B%E5%86%A0%E5%86%9B.jpg)
+
+------
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image' style="text-align: right;"><div><div class="badge"></div><img src='images/awd/2022_IACC_s2.jpg' alt="sym" width="200"   >
 </div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -28,7 +42,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image' style="text-align: right;"><div><div class="badge"></div><img src='images/awd/2023_Jittor_t4.jpg' alt="sym" width="35%"  >
+<div class='paper-box'><div class='paper-box-image' style="text-align: right;"><div><div class="badge"></div><img src='images/awd/2023_Jittor_t4.jpg' alt="sym" width="200"   >
 </div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -41,7 +55,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image' style="text-align: right;"><div><div class="badge"></div><img src='images/awd/2023_Jlin1_t5.png' alt="sym" width="35%"  >
+<div class='paper-box'><div class='paper-box-image' style="text-align: right;"><div><div class="badge"></div><img src='images/awd/2023_Jlin1_t5.png' alt="sym" width="200"   >
 </div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -53,7 +67,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image' style="text-align: right;"><div><div class="badge"></div><img src='images/awd/2023_JIG.jpeg' alt="sym" width="35%"  >
+<div class='paper-box'><div class='paper-box-image' style="text-align: right;"><div><div class="badge"></div><img src='images/awd/2023_JIG.jpeg' alt="sym" width="200"   >
 </div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -62,7 +76,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image' style="text-align: right;"><div><div class="badge"></div><img src='images/awd/19_fb_s2.jpg' alt="sym" width="85%"  >
+<div class='paper-box'><div class='paper-box-image' style="text-align: right;"><div><div class="badge"></div><img src='images/awd/19_fb_s2.jpg' alt="sym" width="200"  >
 </div></div>
 <div class='paper-box-text' markdown="1">
 
