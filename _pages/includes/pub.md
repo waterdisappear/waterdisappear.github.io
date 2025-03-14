@@ -3,7 +3,7 @@
 
 ## Journal
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2024</div><img src='images/pub/IJCV_2024_LSKNet.png' alt="sym" width="100%"  >
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2024</div><img src='images/pub/IJCV_2024_LSKNet.png' alt="sym" width="350"  >
 </div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -34,7 +34,7 @@ LSKNet can dynamically adjust its large spatial receptive field to better model 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVMJ 2024</div><img src='images/pub/APF-GAN.png' alt="sym" width="100%"  >
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVMJ 2024</div><img src='images/pub/APF-GAN.png' alt="sym" width="350"  >
 </div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -52,7 +52,7 @@ The APF-GAN model improves GAN-based image segmentation, surpassing GauGAN and w
 
 ## Conference
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/pub/ICCV_2023_LSKNet.png' alt="sym" width="100%"  >
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/pub/ICCV_2023_LSKNet.png' alt="sym" width="350"  >
 </div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -85,7 +85,7 @@ LSKNet can dynamically adjust its large spatial receptive field to better model 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/pub/NeurIPS_2024_SARDet-100K.png' alt="sym" width="100%">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/pub/NeurIPS_2024_SARDet-100K.png' alt="sym" width="350">
 </div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -105,7 +105,7 @@ SARDet-100K, the first large-scale multi-class SAR object detection dataset, alo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACCV 2022</div><img src='images/pub/ACCV_2022_SGE.png' alt="sym" width="100%">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACCV 2022</div><img src='images/pub/ACCV_2022_SGE.png' alt="sym" width="350">
 </div></div>
 <div class='paper-box-text' markdown="1">
 
