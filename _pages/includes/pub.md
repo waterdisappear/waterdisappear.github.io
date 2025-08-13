@@ -10,7 +10,7 @@
 
 [ATRNet-STAR: A Large Dataset and Benchmark Towards Remote Sensing Object Recognition in the Wild **(Preprint)**](https://arxiv.org/abs/2501.13354)
 
-Yongxiang Liu, **Weijie Li**, Li Liu, Jie Zhou, Bowen Peng, Yafei Song, Xuying Xiong, Wei Yang, Tianpeng Liu, Zhen Liu, Xiang Li
+Yongxiang Liu\*, **Weijie Li**, Li Liu\*, Jie Zhou, Bowen Peng, Yafei Song, Xuying Xiong, Wei Yang, Tianpeng Liu, Zhen Liu, Xiang Li\*
 
 [[**Paper**]](https://arxiv.org/abs/2501.13354) [[**BibTex**]](./resources/bibtex/Preprint 2025 ATRNet-STAR.txt) [[**Code**]](https://github.com/waterdisappear/ATRNet-STAR) [![](https://img.shields.io/github/stars/waterdisappear/ATRNet-STAR?style=social)](https://github.com/waterdisappear/ATRNet-STAR)
 
