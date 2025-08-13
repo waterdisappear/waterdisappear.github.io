@@ -3,9 +3,22 @@
 
 ## Journal
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/pub/Preprint_2025_ATRNet-STAR.png' alt="sym" width="350"  >
+</div></div>
+<div class='paper-box-text' markdown="1">
+[ATRNet-STAR: A Large Dataset and Benchmark Towards Remote Sensing Object Recognition in the Wild (Preprint)](https://arxiv.org/abs/2501.13354)
+
+Yongxiang Liu, **Weijie Li**, Li Liu, Jie Zhou, Bowen Peng, Yafei Song, Xuying Xiong, Wei Yang, Tianpeng Liu, Zhen Liu, Xiang Li
+
+[[**Paper**]](https://arxiv.org/abs/2501.13354) [[**BibTex**]](./resources/bibtex/Preprint 2025 ATRNet-STAR.txt) [[**Code**]](https://github.com/waterdisappear/ATRNet-STAR) [![](https://img.shields.io/github/stars/waterdisappear/ATRNet-STAR?style=social)](https://github.com/waterdisappear/ATRNet-STAR)
+
+ATRNet-STAR dataset contains **40 distinct target types**, collected with the aim of replacing the outdated though widely used MSTAR dataset and making a significant contribution to the advancement of SAR ATR research.
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='images/pub/TIP_2025_SARATR-X.png' alt="sym" width="350"  >
 </div></div>
 <div class='paper-box-text' markdown="1">
+
 [SARATR-X: Toward Building a Foundation Model for SAR Target Recognition **(TIP)**](https://ieeexplore.ieee.org/document/10856784)
 
 **Weijie Li**, Wei Yang\*, Yunan Hou, Li Liu\*, Yongxiang Liu\*, and Xiang Li
@@ -27,14 +40,10 @@ SARATR-X is a **foundation model**, which learns generalizable representations v
 
 [[**Paper**]](https://www.sciencedirect.com/science/article/pii/S0924271624003514) [[**BibTex**]](./resources/bibtex/ISPRS Journal_2024_SAR-JEPA.txt) [[**知乎**]](https://zhuanlan.zhihu.com/p/787495052) [[**Code**]](https://github.com/waterdisappear/SAR-JEPA) [![](https://img.shields.io/github/stars/waterdisappear/SAR-JEPA?style=social)](https://github.com/waterdisappear/SAR-JEPA)
 
-SAR-JEPA is a joint-embedding predictive architecture for SAR ATR that leverages local masked patches to predict the multi-scale SAR gradient representations of an unseen context.
+SAR-JEPA is a joint-embedding predictive architecture for SAR ATR that leverages **local masked patches** to predict the **multi-scale SAR gradient representations of an unseen context**.
 
 </div>
 </div>
-
-
-
-
 
 # 📃 Other Publications
 

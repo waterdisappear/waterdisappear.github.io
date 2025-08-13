@@ -1,0 +1,10 @@
+@ARTICLE{li2023discovering,
+  author={Li, Weijie and Yang, Wei and Liu, Li and Zhang, Wenpeng and Liu, Yongxiang},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={Discovering and Explaining the Noncausality of Deep Learning in SAR ATR}, 
+  year={2023},
+  volume={20},
+  number={},
+  pages={1-5},
+  doi={10.1109/LGRS.2023.3266493}
+}

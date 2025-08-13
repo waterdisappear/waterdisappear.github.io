@@ -1,0 +1,9 @@
+@misc{liu2025atrnet,
+	title={{ATRNet-STAR}: A Large Dataset and Benchmark Towards Remote Sensing Object Recognition in the Wild}, 
+	author={Yongxiang Liu and Weijie Li and Li Liu and Jie Zhou and Bowen Peng and Yafei Song and Xuying Xiong and Wei Yang and Tianpeng Liu and Zhen Liu and Xiang Li},
+	year={2025},
+	eprint={2501.13354},
+	archivePrefix={arXiv},
+	primaryClass={cs.CV},
+	url={https://arxiv.org/abs/2501.13354},
+}
