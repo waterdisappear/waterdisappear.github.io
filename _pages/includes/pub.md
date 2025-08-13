@@ -11,12 +11,7 @@
 
 **Weijie Li**, Wei Yang\*, Yunan Hou, Li Liu\*, Yongxiang Liu\*, and Xiang Li
 
-[[**Paper**]](https://ieeexplore.ieee.org/document/10856784)
-[[**BibTex**]](./resources/bibtex/TIP 2025 SARATR-X.txt) 
-
-[[**知乎专栏**]](https://zhuanlan.zhihu.com/p/20701889782)
-
-[[**Code**]](https://github.com/waterdisappear/SARATR-X)[![](https://img.shields.io/github/stars/waterdisappear/SARATR-X?style=social)](https://github.com/waterdisappear/SARATR-X)
+[[**Paper**]](https://ieeexplore.ieee.org/document/10856784)[[**BibTex**]](./resources/bibtex/TIP 2025 SARATR-X.txt) [[**知乎专栏**]](https://zhuanlan.zhihu.com/p/20701889782)[[**Code**]](https://github.com/waterdisappear/SARATR-X)[![](https://img.shields.io/github/stars/waterdisappear/SARATR-X?style=social)](https://github.com/waterdisappear/SARATR-X)
 
 SARATR-X is a **foundation model**, which learns generalizable representations via **self-supervised learning** from large-scale unlabelled data and provides a corner stone for generic SAR target detection and classification.
 
