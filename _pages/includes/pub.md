@@ -3,6 +3,9 @@
 
 ## Journal
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/pub/Preprint_2025_ATRNet-STAR.png' alt="sym" width="350"  >
 </div></div>
 <div class='paper-box-text' markdown="1">

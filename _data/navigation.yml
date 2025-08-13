@@ -15,10 +15,10 @@ main:
     url: "/#-other-publications"
     
   - title: "Awards"
-    url: "/#-cawards"
+    url: "/#-awards"
 
   - title: "Services"
-    url: "/#-Services"
+    url: "/#-services"
  
 
   # - title: "Internships"
