@@ -35,9 +35,10 @@ SARATR-X is a **foundation model**, which learns generalizable representations v
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS Journal</div><img src='images/pub/ISPRS Journal_2024_SAR-JEPA.png' alt="sym" width="350"  >
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS Journal 2024</div><img src='images/pub/ISPRS Journal_2024_SAR-JEPA.png' alt="sym" width="350"  >
 </div></div>
 <div class='paper-box-text' markdown="1">
+
 
 [Predicting Gradient is Better: Exploring Self-Supervised Learning for SAR ATR with a Joint-Embedding Predictive Architecture **(ISPRS)**](https://www.sciencedirect.com/science/article/pii/S0924271624003514)
 
