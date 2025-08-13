@@ -14,6 +14,9 @@ Yongxiang Liu, **Weijie Li**, Li Liu, Jie Zhou, Bowen Peng, Yafei Song, Xuying X
 
 ATRNet-STAR dataset contains **40 distinct target types**, collected with the aim of replacing the outdated though widely used MSTAR dataset and making a significant contribution to the advancement of SAR ATR research.
 
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='images/pub/TIP_2025_SARATR-X.png' alt="sym" width="350"  >
 </div></div>
