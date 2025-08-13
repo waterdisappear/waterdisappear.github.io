@@ -51,10 +51,28 @@ SAR-JEPA is a joint-embedding predictive architecture for SAR ATR that leverages
 
 # 📃 Other Publications
 
-### [Hierarchical Disentanglement-Alignment Network for Robust SAR Vehicle Recognition](https://ieeexplore.ieee.org/document/10283916)
+[SARDet-100K: Towards Open-Source Benchmark and ToolKit for Large-Scale SAR Object Detection](https://arxiv.org/abs/2403.06534)
+
+**NeurIPS Spotlight**, ***2024***  
+Yuxuan Li, Xiang Li\*, **Weijie Li**, Qibin Hou, Li Liu, Ming-Ming Cheng, Jian Yang\*   
+
+[[**Paper**]](https://arxiv.org/pdf/2403.06534) [[**BibTex**]](./resources/bibtex/NeurIPS_2024_Sardet.txt) [[**知乎专栏**]](https://zhuanlan.zhihu.com/p/686785188) [[**Code**]](https://github.com/zcablii/SARDet_100K)[![](https://img.shields.io/github/stars/zcablii/SARDet_100K?style=social)](https://github.com/zcablii/SARDet_100K)
+
+---
+
+[Hierarchical Disentanglement-Alignment Network for Robust SAR Vehicle Recognition](https://ieeexplore.ieee.org/document/10283916)
+
 **IEEE J-STARS**, ***2023***  
 **Weijie Li,** Wei Yang\*, Wenpeng Zhang, Tianpeng Liu\*, Yongxiang Liu\*, and Li Liu   
 [[**Paper**]](https://ieeexplore.ieee.org/document/10283916) [[**BibTex**]](./resources/bibtex/JSTARS 2023 HDANet.txt) [[**Code**]](https://github.com/waterdisappear/SAR-ATR-HDANet)  [![](https://img.shields.io/github/stars/waterdisappear/SAR-ATR-HDANet?style=social)](https://github.com/waterdisappear/SAR-ATR-HDANet)
+
+---
+
+[Discovering and Explaining the Noncausality of Deep Learning in SAR ATR](https://ieeexplore.ieee.org/document/10100951)
+
+**IEEE J-STARS**, ***2023***  
+**Weijie Li**, Wei Yang\*, Wenpeng Zhang, Tianpeng Liu, Yongxiang Liu, Li Liu   
+[[**Paper**]](https://arxiv.org/abs/2304.00668) [[**BibTex**]](./resources/bibtex/GRSL_2023_DataBias.txt) [[**Code**]](https://github.com/waterdisappear/Data-Bias-in-MSTAR)  [![](https://img.shields.io/github/stars/waterdisappear/Data-Bias-in-MSTAR?style=social)](https://github.com/waterdisappear/Data-Bias-in-MSTAR)
 
 ---
 
