@@ -1,2 +1,2 @@
 # 👥 Services
-- **Journal**: [IEEE TIP](https://ieeexplore.ieee.org/xpl/topics-issue?punumber=83); [IEEE TGRS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp/?punumber=36); [IEEE GRSL](https://ieeexplore.ieee.org/document/9524306); [ISPRS Journal](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing).
+- **Journal**: [TIP](https://ieeexplore.ieee.org/xpl/topics-issue?punumber=83),  [ISPRS Journal](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing), [TGRS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp/?punumber=36), and [GRSL](https://ieeexplore.ieee.org/document/9524306); .

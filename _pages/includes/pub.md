@@ -21,7 +21,6 @@ ATRNet-STAR dataset contains **40 distinct target types**, collected with the ai
 </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='images/pub/TIP_2025_SARATR-X.png' alt="sym" width="350"  >
 </div></div>
 <div class='paper-box-text' markdown="1">
@@ -65,7 +64,7 @@ Yuxuan Li, Xiang Li\*, **Weijie Li**, Qibin Hou, Li Liu, Ming-Ming Cheng, Jian Y
 
 [Hierarchical Disentanglement-Alignment Network for Robust SAR Vehicle Recognition](https://ieeexplore.ieee.org/document/10283916)
 
-**IEEE J-STARS**, ***2023***  
+**J-STARS**, ***2023***  
 **Weijie Li,** Wei Yang\*, Wenpeng Zhang, Tianpeng Liu\*, Yongxiang Liu\*, and Li Liu   
 [[**Paper**]](https://ieeexplore.ieee.org/document/10283916) [[**BibTex**]](./resources/bibtex/JSTARS 2023 HDANet.txt) [[**Code**]](https://github.com/waterdisappear/SAR-ATR-HDANet)  [![](https://img.shields.io/github/stars/waterdisappear/SAR-ATR-HDANet?style=social)](https://github.com/waterdisappear/SAR-ATR-HDANet)
 
@@ -73,7 +72,7 @@ Yuxuan Li, Xiang Li\*, **Weijie Li**, Qibin Hou, Li Liu, Ming-Ming Cheng, Jian Y
 
 [Discovering and Explaining the Noncausality of Deep Learning in SAR ATR](https://ieeexplore.ieee.org/document/10100951)
 
-**IEEE J-STARS**, ***2023***  
+**GRSL**, ***2023***  
 **Weijie Li**, Wei Yang\*, Wenpeng Zhang, Tianpeng Liu, Yongxiang Liu, Li Liu   
 [[**Paper**]](https://arxiv.org/abs/2304.00668) [[**BibTex**]](./resources/bibtex/GRSL_2023_DataBias.txt) [[**Code**]](https://github.com/waterdisappear/Data-Bias-in-MSTAR)  [![](https://img.shields.io/github/stars/waterdisappear/Data-Bias-in-MSTAR?style=social)](https://github.com/waterdisappear/Data-Bias-in-MSTAR)
 
