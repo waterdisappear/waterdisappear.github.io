@@ -12,7 +12,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image' style="text-align: right;"><div><div class="badge"></div><img src='images/awd/2017_National_Scholarship.png' alt="sym" width="200"   >
+<div class='paper-box'><div class='paper-box-image' style="text-align: right;"><div><div class="badge"></div><img src='images/awd/2017_National_Scholarship.png' alt="sym" width="250"   >
 </div></div>
 <div class='paper-box-text' markdown="1">
 

@@ -3,9 +3,15 @@
 
 ## Preprint
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/pub/Preprint_2025_ATRNet-STAR.png' alt="sym" width="350"  >
-</div></div>
-<div class='paper-box-text' markdown="1">
+<div class="justify-text">
+  <p>
+    I am a Ph.D. candidate in the the College of Electronic Science and Technology, National University of Defense Technology (Changsha, 410073, China), under the supervision of Professors Xiang Li, <a href="https://scholar.google.com/citations?user=9cMQrVsAAAAJ&hl=zh-CN&oi=sra">‪Li Liu</a>, and Wei Yang. I received the university B.E. degree from Xi’an Jiaotong University, Xi’an, China, in 2019.
+  </p>
+  <p>
+    My research interests focus on computer vision, synthetic aperture radar, automatic target recognition, foundation model, and self-supervised Learning. I am actively seeking research internship and postdoctoral opportunities worldwide. For inquiries about my research or collaboration opportunities, please feel free to reach out via email at email at <a href="mailto:lwj2150508321@sina.com">lwj2150508321@sina.com</a>.
+  </p>
+</div>
+
 
 [ATRNet-STAR: A Large Dataset and Benchmark Towards Remote Sensing Object Recognition in the Wild **(Preprint)**](https://arxiv.org/abs/2501.13354)
 
@@ -35,7 +41,7 @@ SARATR-X is a **foundation model**, which learns generalizable representations v
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS Journal 2024</div><img src='images/pub/ISPRS Journal_2024_SAR-JEPA.png' alt="sym" width="350"  >
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS Journal 2024</div><img src='images/pub/ISPRS Journal_2024_SAR-JEPA.png' alt="sym" width="300"  >
 </div></div>
 <div class='paper-box-text' markdown="1">
 
