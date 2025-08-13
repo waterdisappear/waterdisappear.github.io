@@ -1,4 +1,4 @@
-# 📚 Publications
+# 📚 Selected Publications
 \* Corresponding author
 
 ## Journal
@@ -6,17 +6,33 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='images/pub/TIP_2025_SARATR-X.png' alt="sym" width="350"  >
 </div></div>
 <div class='paper-box-text' markdown="1">
-
-[SARATR-X: Toward Building a Foundation Model for SAR Target Recognition**(TIP)**](https://ieeexplore.ieee.org/document/10856784)
+[SARATR-X: Toward Building a Foundation Model for SAR Target Recognition **(TIP)**](https://ieeexplore.ieee.org/document/10856784)
 
 **Weijie Li**, Wei Yang\*, Yunan Hou, Li Liu\*, Yongxiang Liu\*, and Xiang Li
 
-[[**Paper**]](https://ieeexplore.ieee.org/document/10856784)[[**BibTex**]](./resources/bibtex/TIP 2025 SARATR-X.txt) [[**知乎专栏**]](https://zhuanlan.zhihu.com/p/20701889782)[[**Code**]](https://github.com/waterdisappear/SARATR-X)[![](https://img.shields.io/github/stars/waterdisappear/SARATR-X?style=social)](https://github.com/waterdisappear/SARATR-X)
+[[**Paper**]](https://ieeexplore.ieee.org/document/10856784) [[**BibTex**]](./resources/bibtex/TIP 2025 SARATR-X.txt) [[**知乎**]](https://zhuanlan.zhihu.com/p/20701889782) [[**Code**]](https://github.com/waterdisappear/SARATR-X) [![](https://img.shields.io/github/stars/waterdisappear/SARATR-X?style=social)](https://github.com/waterdisappear/SARATR-X)
 
 SARATR-X is a **foundation model**, which learns generalizable representations via **self-supervised learning** from large-scale unlabelled data and provides a corner stone for generic SAR target detection and classification.
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS Journal</div><img src='images/pub/ISPRS Journal_2024_SAR-JEPA.png' alt="sym" width="350"  >
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+[Predicting Gradient is Better: Exploring Self-Supervised Learning for SAR ATR with a Joint-Embedding Predictive Architecture **(ISPRS)**](https://www.sciencedirect.com/science/article/pii/S0924271624003514)
+
+**Weijie Li**, Wei Yang, Tianpeng Liu, Yuenan Hou, Yuxuan Li, Zhen Liu, Yongxiang Liu\*, Li Liu
+
+[[**Paper**]](https://www.sciencedirect.com/science/article/pii/S0924271624003514) [[**BibTex**]](./resources/bibtex/ISPRS Journal_2024_SAR-JEPA.txt) [[**知乎**]](https://zhuanlan.zhihu.com/p/787495052) [[**Code**]](https://github.com/waterdisappear/SAR-JEPA) [![](https://img.shields.io/github/stars/waterdisappear/SAR-JEPA?style=social)](https://github.com/waterdisappear/SAR-JEPA)
+
+SAR-JEPA is a joint-embedding predictive architecture for SAR ATR that leverages local masked patches to predict the multi-scale SAR gradient representations of an unseen context.
+
+</div>
+</div>
+
+
 
 
 

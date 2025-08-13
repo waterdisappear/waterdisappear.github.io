@@ -1,0 +1,10 @@
+@ARTICLE{li2023hierarchical,
+  author={Li, Weijie and Yang, Wei and Zhang, Wenpeng and Liu, Tianpeng and Liu, Yongxiang and Liu, Li},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={Hierarchical Disentanglement-Alignment Network for Robust {SAR} Vehicle Recognition}, 
+  year={2023},
+  volume={16},
+  number={},
+  pages={9661-9679},
+  doi={10.1109/JSTARS.2023.3324182}
+}
