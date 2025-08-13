@@ -1,11 +1,12 @@
 # 📚 Selected Publications
 \* Corresponding author
 
-## Journal
+## Preprint
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/pub/Preprint_2025_ATRNet-STAR.png' alt="sym" width="350"  >
 </div></div>
 <div class='paper-box-text' markdown="1">
+
 [ATRNet-STAR: A Large Dataset and Benchmark Towards Remote Sensing Object Recognition in the Wild **(Preprint)**](https://arxiv.org/abs/2501.13354)
 
 Yongxiang Liu, **Weijie Li**, Li Liu, Jie Zhou, Bowen Peng, Yafei Song, Xuying Xiong, Wei Yang, Tianpeng Liu, Zhen Liu, Xiang Li
@@ -16,6 +17,8 @@ ATRNet-STAR dataset contains **40 distinct target types**, collected with the ai
 
 </div>
 </div>
+
+## Journal
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='images/pub/TIP_2025_SARATR-X.png' alt="sym" width="350"  >
 </div></div>
