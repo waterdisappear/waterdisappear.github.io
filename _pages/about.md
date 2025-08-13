@@ -27,6 +27,4 @@ redirect_from:
 
 {% include_relative includes/honers.md %}
 
-{% include_relative includes/experiments.md %}
-
 {% include_relative includes/services.md %}

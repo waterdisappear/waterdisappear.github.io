@@ -16,10 +16,10 @@
 
 <div class="justify-text">
   <p>
-    I am a Ph.D. candidate in the VCIP Lab, College of Computer Science, Nankai University, under the supervision of Professors <a href="http://www.patternrecognition.cn/~jian/">Jian Yang</a>, <a href="https://implus.github.io/">Xiang Li</a>, and <a href="https://mmcheng.net/">Ming-Ming Cheng</a>. I hold a first-class honors master degree (4 years) in Computer Science from University College London (UCL).
+    I am a Ph.D. candidate in the the College of Electronic Science and Technology, National University of Defense Technology (Changsha, 410073, China), under the supervision of Professors Xiang Li, <a href="https://scholar.google.com/citations?user=9cMQrVsAAAAJ&hl=zh-CN&oi=sra">‪Li Liu</a>, and Yang Wei. I received the university B.E. degree from Xi’an Jiaotong University, Xi’an, China, in 2019.
   </p>
   <p>
-    My research interests focus on computer vision, remote sensing object detection, large models, and multi-modal learning. I am actively seeking research internship and postdoctoral opportunities worldwide. For inquiries about my research or collaboration opportunities, please feel free to reach out via email at <a href="mailto:yuxuan.li.17@ucl.ac.uk">yuxuan.li.17 [at] ucl.ac.uk</a>.
+    My research interests focus on computer vision, synthetic aperture radar, automatic target recognition, foundation model, and self-supervised Learning. I am actively seeking research internship and postdoctoral opportunities worldwide. For inquiries about my research or collaboration opportunities, please feel free to reach out via email at lwj2150508321 [at] sina.com.
   </p>
 </div>
 

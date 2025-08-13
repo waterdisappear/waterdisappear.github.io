@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuxuan Li"
+title                    : "Weijie Li"
 description              : ""
-repository               : "zcablii/zcablii.github.io"
+repository               : "waterdisappear/waterdisappear.github.io"
 google_scholar_stats_use_cdn : False
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuxuan Li <br>&nbsp; (李宇轩)"
-  avatar           : "images/bio/android-chrome-512x512.png"
-  bio              : "Ph.D. Student at Nankai Uni."
-  location         : "TianJin, China"
+  avatar           : "images/bio/myphoto.png"
+  name             : "Weijie Li (李玮杰)"
+  bio              : "Ph.D. Student"
+  location         : "Changsha, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=vKnUqmMAAAAJ"
-  email            : "yuxuan.li.17@ucl.ac.uk"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=YqgOTXMAAAAJ"
+  email            : "lwj2150508321@sina.com"
+  researchgate     : "https://www.researchgate.net/profile/Weijie_Li23?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zcablii" # e.g., "github username"
+  github           : "waterdisappear" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : #"https://dblp.uni-trier.de/pid/294/0060.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-2030-5349"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -57,6 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  zhihu            : li-wei-jie-78-35"
 
 
 # Reading Files
