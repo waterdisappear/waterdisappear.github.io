@@ -13,7 +13,7 @@
 
 Yongxiang Liu\*, **Weijie Li**, Li Liu\*, Jie Zhou, Bowen Peng, Yafei Song, Xuying Xiong, Wei Yang, Tianpeng Liu, Zhen Liu, Xiang Li\*
 
-[[**Paper**]](https://arxiv.org/abs/2501.13354) [[**BibTex**]](./resources/bibtex/Preprint 2025 ATRNet-STAR.txt) [[**Code**]](https://github.com/waterdisappear/ATRNet-STAR) [![](https://img.shields.io/github/stars/waterdisappear/ATRNet-STAR?style=social)](https://github.com/waterdisappear/ATRNet-STAR)
+[[**Paper**]](https://arxiv.org/abs/2501.13354) [[**BibTex**]](./resources/bibtex/Preprint 2025 ATRNet-STAR.txt) [[**知乎**]](https://zhuanlan.zhihu.com/p/1906257303839158589) [[**Code**]](https://github.com/waterdisappear/ATRNet-STAR) [![](https://img.shields.io/github/stars/waterdisappear/ATRNet-STAR?style=social)](https://github.com/waterdisappear/ATRNet-STAR)
 
 ATRNet-STAR dataset contains **40 distinct target types**, collected with the aim of replacing the outdated though widely used MSTAR dataset and making a significant contribution to the advancement of SAR ATR research.
 
@@ -61,7 +61,7 @@ SAR-JEPA is a joint-embedding predictive architecture for SAR ATR that leverages
 **NeurIPS Spotlight**, ***2024***  
 Yuxuan Li, Xiang Li\*, **Weijie Li**, Qibin Hou, Li Liu, Ming-Ming Cheng, Jian Yang\*   
 
-[[**Paper**]](https://arxiv.org/pdf/2403.06534) [[**BibTex**]](./resources/bibtex/NeurIPS_2024_Sardet.txt) [[**知乎专栏**]](https://zhuanlan.zhihu.com/p/686785188) [[**Code**]](https://github.com/zcablii/SARDet_100K)[![](https://img.shields.io/github/stars/zcablii/SARDet_100K?style=social)](https://github.com/zcablii/SARDet_100K)
+[[**Paper**]](https://arxiv.org/pdf/2403.06534) [[**BibTex**]](./resources/bibtex/NeurIPS_2024_Sardet.txt) [[**知乎**]](https://zhuanlan.zhihu.com/p/686785188) [[**Code**]](https://github.com/zcablii/SARDet_100K)[![](https://img.shields.io/github/stars/zcablii/SARDet_100K?style=social)](https://github.com/zcablii/SARDet_100K)
 
 ---
 
@@ -69,7 +69,7 @@ Yuxuan Li, Xiang Li\*, **Weijie Li**, Qibin Hou, Li Liu, Ming-Ming Cheng, Jian Y
 
 **J-STARS**, ***2023***  
 **Weijie Li,** Wei Yang\*, Wenpeng Zhang, Tianpeng Liu\*, Yongxiang Liu\*, and Li Liu   
-[[**Paper**]](https://ieeexplore.ieee.org/document/10283916) [[**BibTex**]](./resources/bibtex/JSTARS 2023 HDANet.txt) [[**Code**]](https://github.com/waterdisappear/SAR-ATR-HDANet)  [![](https://img.shields.io/github/stars/waterdisappear/SAR-ATR-HDANet?style=social)](https://github.com/waterdisappear/SAR-ATR-HDANet)
+[[**Paper**]](https://ieeexplore.ieee.org/document/10283916) [[**BibTex**]](./resources/bibtex/JSTARS 2023 HDANet.txt) [[**知乎**]](https://zhuanlan.zhihu.com/p/787306380) [[**Code**]](https://github.com/waterdisappear/SAR-ATR-HDANet)  [![](https://img.shields.io/github/stars/waterdisappear/SAR-ATR-HDANet?style=social)](https://github.com/waterdisappear/SAR-ATR-HDANet)
 
 ---
 
@@ -77,6 +77,6 @@ Yuxuan Li, Xiang Li\*, **Weijie Li**, Qibin Hou, Li Liu, Ming-Ming Cheng, Jian Y
 
 **GRSL**, ***2023***  
 **Weijie Li**, Wei Yang\*, Wenpeng Zhang, Tianpeng Liu, Yongxiang Liu, Li Liu   
-[[**Paper**]](https://arxiv.org/abs/2304.00668) [[**BibTex**]](./resources/bibtex/GRSL_2023_DataBias.txt) [[**Code**]](https://github.com/waterdisappear/Data-Bias-in-MSTAR)  [![](https://img.shields.io/github/stars/waterdisappear/Data-Bias-in-MSTAR?style=social)](https://github.com/waterdisappear/Data-Bias-in-MSTAR)
+[[**Paper**]](https://arxiv.org/abs/2304.00668) [[**BibTex**]](./resources/bibtex/GRSL_2023_DataBias.txt) [[**知乎**]](https://zhuanlan.zhihu.com/p/630435432)  [[**Code**]](https://github.com/waterdisappear/Data-Bias-in-MSTAR)  [![](https://img.shields.io/github/stars/waterdisappear/Data-Bias-in-MSTAR?style=social)](https://github.com/waterdisappear/Data-Bias-in-MSTAR)
 
 ---
