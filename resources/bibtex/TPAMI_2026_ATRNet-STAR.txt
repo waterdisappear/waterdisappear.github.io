@@ -1,0 +1,10 @@
+@ARTICLE{liu2026atrnet,
+  author={Liu, Yongxiang and Li, Weijie and Liu, Li and Zhou, Jie and Peng, Bowen and Song, Yafei and Xiong, Xuying and Yang, Wei and Liu, Tianpeng and Liu, Zhen and Li, Xiang},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={ATRNet-STAR: A Large Dataset and Benchmark Towards Remote Sensing Object Recognition in the Wild}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-18},
+  keywords={Synthetic aperture radar;Benchmark testing;Target recognition;Marine vehicles;Imaging;Radar polarimetry;Foundation models;Buildings;Technological innovation;Performance evaluation;Remote sensing;datasets and benchmarks;performance evaluation;synthetic aperture radar;automatic target recognition;image classification;object detection;foundation model;transformer},
+  doi={10.1109/TPAMI.2026.3658649}}

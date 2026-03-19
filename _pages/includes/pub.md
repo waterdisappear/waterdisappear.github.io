@@ -1,9 +1,9 @@
 # 📚 Selected Publications
 \* Corresponding author
 
-## Preprint
+## Journal
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/pub/Preprint_2025_ATRNet-STAR.png' alt="sym" width="350"  >
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2026</div><img src='images/pub/Preprint_2025_ATRNet-STAR.png' alt="sym" width="350"  >
 </div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -13,18 +13,17 @@
 
 Yongxiang Liu\*, **Weijie Li**, Li Liu\*, Jie Zhou, Bowen Peng, Yafei Song, Xuying Xiong, Wei Yang, Tianpeng Liu, Zhen Liu, Xiang Li\*
 
-[[**Paper**]](https://arxiv.org/abs/2501.13354) [[**BibTex**]](./resources/bibtex/Preprint 2025 ATRNet-STAR.txt) [[**知乎**]](https://zhuanlan.zhihu.com/p/1906257303839158589) [[**Code**]](https://github.com/waterdisappear/ATRNet-STAR) [![](https://img.shields.io/github/stars/waterdisappear/ATRNet-STAR?style=social)](https://github.com/waterdisappear/ATRNet-STAR)
+[[**Paper**]](https://ieeexplore.ieee.org/document/11367309) [[**BibTex**]](./resources/bibtex/TPAMI_2026_ATRNet-STAR.txt) [[**知乎**]](https://zhuanlan.zhihu.com/p/1906257303839158589) [[**Code**]](https://github.com/waterdisappear/ATRNet-STAR) [![](https://img.shields.io/github/stars/waterdisappear/ATRNet-STAR?style=social)](https://github.com/waterdisappear/ATRNet-STAR)
 
 ATRNet-STAR dataset contains **40 distinct target types**, collected with the aim of replacing the outdated though widely used MSTAR dataset and making a significant contribution to the advancement of SAR ATR research.
 
 </div>
 </div>
 
-## Journal
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='images/pub/TIP_2025_SARATR-X.png' alt="sym" width="350"  >
 </div></div>
 <div class='paper-box-text' markdown="1">
+
 
 
 [SARATR-X: Toward Building a Foundation Model for SAR Target Recognition **(TIP)**](https://ieeexplore.ieee.org/document/10856784)
