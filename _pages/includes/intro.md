@@ -16,10 +16,10 @@
 
 <div class="justify-text">
   <p>
-    I am a Ph.D. candidate in the the College of Electronic Science and Technology, National University of Defense Technology (Changsha, 410073, China), under the supervision of Professors Xiang Li, <a href="https://scholar.google.com/citations?user=9cMQrVsAAAAJ&hl=zh-CN&oi=sra">‪Li Liu</a>, and <a href="https://www.researchgate.net/profile/Wei-Yang-126">‪Wei Yang</a>. I received the university B.E. degree from Xi’an Jiaotong University, Xi’an, China, in 2019.
+    I am currently a Postdoctoral Researcher in the College of Electronic Science and Technology, National University of Defense Technology (Changsha, 410073, China), working with Professor <a href="https://scholar.google.com/citations?user=a9tTHSEAAAAJ&hl=en">Yongxiang Liu</a>. I received the Ph.D. degree from National University of Defense Technology, under the supervision of Professor Xiang Li and co-supervised by Professors <a href="https://scholar.google.com/citations?user=9cMQrVsAAAAJ&hl=zh-CN&oi=sra">Li Liu</a> and <a href="https://www.researchgate.net/profile/Wei-Yang-126">Wei Yang</a>. I received the B.E. degree from Xi’an Jiaotong University, Xi’an, China, in 2019.
   </p>
   <p>
-    My research interests focus on computer vision, synthetic aperture radar, automatic target recognition, foundation model, and self-supervised Learning. I am actively seeking research internship and postdoctoral opportunities worldwide. For inquiries about my research or collaboration opportunities, please feel free to reach out via email at email at <a href="mailto:lwj2150508321@sina.com">lwj2150508321@sina.com</a>.
+    My research interests focus on computer vision, synthetic aperture radar, automatic target recognition, foundation model, and self-supervised learning. I welcome collaborations and academic exchanges. For inquiries about my research or collaboration opportunities, please feel free to reach out via email at <a href="mailto:lwj2150508321@sina.com">lwj2150508321@sina.com</a>.
   </p>
 </div>
 
