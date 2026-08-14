@@ -1,7 +1,7 @@
 # 📚 Selected Publications
 \* Corresponding author † Equal contribution
 
-## Journal
+## Preprint
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/pub/Preprint_2026_SARATR-X-v2.png' alt="sym" width="350"  >
 </div></div>
@@ -19,6 +19,8 @@ SARATR-X-v2 designs a **scale-aware structural** reconstruction target that join
 
 </div>
 </div>
+
+## Journal
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2026</div><img src='images/pub/Preprint_2025_ATRNet-STAR.png' alt="sym" width="350"  >
 </div></div>
