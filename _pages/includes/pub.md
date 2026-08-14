@@ -1,7 +1,24 @@
 # 📚 Selected Publications
-\* Corresponding author
+\* Corresponding author † Equal contribution
 
 ## Journal
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/pub/Preprint_2026_SARATR-X-v2.png' alt="sym" width="350"  >
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
+[SARATR-X-v2: Scale-Aware Structural Pre-Training for SAR Foundation Models **(Preprint)**](https://arxiv.org/abs/2607.23238)
+
+**Weijie Li**†, Yafei Song†, Yongxiang Liu\*, Bowen Peng, Jie Zhou, Jingyuan Xia, Wei Yang, Tianpeng Liu, Zhen Liu, Li Liu\*
+
+[[**Paper**]](https://arxiv.org/abs/2607.23238) [[**BibTex**]](./resources/bibtex/Preprint_2026_SARATR-X-v2.txt) [[**知乎**]](https://zhuanlan.zhihu.com/p/2070277357513004786) [[**Code**]](https://github.com/waterdisappear/SARATR-X-v2) [![](https://img.shields.io/github/stars/waterdisappear/SARATR-X-v2?style=social)](https://github.com/waterdisappear/SARATR-X-v2)
+
+SARATR-X-v2 designs a **scale-aware structural** reconstruction target that jointly satisfies **physics-grounded stability** to multiplicative **speckle** and **semantic scale compatibility**, achieving state-of-the-art transfer on **twelve SAR benchmarks**.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2026</div><img src='images/pub/Preprint_2025_ATRNet-STAR.png' alt="sym" width="350"  >
 </div></div>

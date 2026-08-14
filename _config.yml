@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   avatar           : "images/bio/myphoto.png"
   name             : "Weijie Li (李玮杰)"
-  bio              : "Ph.D. Student"
+  bio              : "Postdoctoral Researcher"
   location         : "Changsha, China"
   employer         :
   pubmed           : 
@@ -57,7 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  zhihu            : li-wei-jie-78-35"
+  zhihu            : li-wei-jie-78-35
 
 
 # Reading Files

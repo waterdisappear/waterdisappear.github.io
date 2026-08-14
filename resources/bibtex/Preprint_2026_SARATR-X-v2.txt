@@ -1,0 +1,9 @@
+@misc{li2026saratrxv2,
+  title={{SARATR-X-v2}: Scale-Aware Structural Pre-Training for {SAR} Foundation Models},
+  author={Li, Weijie and Song, Yafei and Liu, Yongxiang and Peng, Bowen and Zhou, Jie and Xia, Jingyuan and Yang, Wei and Liu, Tianpeng and Liu, Zhen and Liu, Li},
+  year={2026},
+  eprint={2607.23238},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2607.23238}
+}

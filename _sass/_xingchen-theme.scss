@@ -1,0 +1,362 @@
+/* ==========================================================================
+   Xingchen-inspired academic theme overlay
+   Spec: docs/superpowers/specs/2026-08-14-xingchen-theme-design.md
+   ========================================================================== */
+
+:root {
+  --xc-bg: #F7F9FC;
+  --xc-card: #FFFFFF;
+  --xc-ink: #0B1220;
+  --xc-dim: #5A6A85;
+  --xc-line: #E4E9F2;
+  --xc-blue: #3B6FF5;
+  --xc-cyan: #22C7E8;
+  --xc-violet: #7C5CFC;
+  --xc-grad: linear-gradient(120deg, #3B6FF5, #22C7E8);
+  --xc-radius: 18px;
+  --xc-shadow: 0 16px 40px rgba(11, 18, 32, 0.08);
+  --xc-shadow-sm: 0 8px 24px rgba(11, 18, 32, 0.06);
+  --xc-sans: "PingFang SC", "HarmonyOS Sans SC", "Microsoft YaHei", "Noto Sans SC", system-ui, sans-serif;
+  --xc-mono: "SF Mono", "Cascadia Mono", Consolas, monospace;
+}
+
+::selection {
+  background: var(--xc-blue);
+  color: #fff;
+}
+
+body {
+  background: var(--xc-bg);
+  color: var(--xc-ink);
+  font-family: var(--xc-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+#main {
+  margin-top: 1.25em;
+}
+
+/* --------------------------------------------------------------------------
+   Masthead
+   -------------------------------------------------------------------------- */
+
+.masthead {
+  background: rgba(247, 249, 252, 0.86);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--xc-line);
+}
+
+.masthead__menu-item a,
+.greedy-nav a {
+  color: var(--xc-dim);
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: var(--xc-blue);
+  }
+}
+
+.masthead__menu-item--lg a {
+  color: var(--xc-ink);
+  font-weight: 700;
+}
+
+/* --------------------------------------------------------------------------
+   Sidebar / author profile
+   -------------------------------------------------------------------------- */
+
+.sidebar {
+  .profile_box {
+    background: var(--xc-card);
+    border: 1px solid var(--xc-line);
+    border-radius: var(--xc-radius);
+    box-shadow: var(--xc-shadow-sm);
+    padding: 1.25em 1.1em 1.1em;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+
+    @include breakpoint($large) {
+      display: block;
+      text-align: center;
+    }
+  }
+
+  .author__avatar {
+    img {
+      border-radius: 16px !important;
+      border: none !important;
+      padding: 0 !important;
+      box-shadow: 0 0 0 3px var(--xc-card), 0 0 0 5px rgba(59, 111, 245, 0.45);
+      max-width: 160px;
+    }
+  }
+
+  .author__name {
+    font-weight: 800;
+    letter-spacing: -0.01em;
+    color: var(--xc-ink);
+  }
+
+  .author__bio {
+    display: inline-block;
+    margin-top: 0.35em !important;
+    margin-bottom: 0.75em !important;
+    padding: 0.28em 0.75em;
+    border-radius: 99px;
+    background: #EEF3FF;
+    color: var(--xc-blue) !important;
+    font-size: 0.78em !important;
+    font-weight: 600;
+    line-height: 1.4;
+  }
+
+  .author__urls {
+    a {
+      border-radius: 8px;
+      padding: 0.35em 0.4em;
+      transition: color 0.2s ease, background 0.2s ease;
+
+      &:hover {
+        color: var(--xc-blue);
+        background: #F2F5FC;
+        text-decoration: none;
+      }
+    }
+  }
+
+  .author__urls_sm a:hover {
+    color: var(--xc-blue);
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Page content
+   -------------------------------------------------------------------------- */
+
+.page__content {
+  h1 {
+    position: relative;
+    margin-top: 1.75em;
+    margin-bottom: 1em;
+    padding-bottom: 0.65em;
+    border-bottom: 1px solid var(--xc-line);
+    font-weight: 800;
+    letter-spacing: -0.01em;
+    color: var(--xc-ink);
+
+    &::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: -1px;
+      width: 56px;
+      height: 3px;
+      border-radius: 3px;
+      background: var(--xc-grad);
+    }
+  }
+
+  a {
+    color: var(--xc-blue);
+    text-decoration: none;
+    transition: color 0.2s ease;
+
+    &:hover {
+      color: #2f5cd9;
+      text-decoration: underline;
+    }
+  }
+
+  ul li {
+    margin-bottom: 0.35em;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Paper cards
+   -------------------------------------------------------------------------- */
+
+.paper-box {
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background: var(--xc-card);
+  border: 1px solid var(--xc-line) !important;
+  border-radius: var(--xc-radius);
+  box-shadow: none;
+  margin: 0 0 1.1em;
+  padding: 1.15em 1.2em !important;
+  transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+
+  &::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 3px;
+    background: var(--xc-grad);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--xc-shadow);
+    border-color: transparent !important;
+
+    &::before {
+      opacity: 1;
+    }
+  }
+
+  .paper-box-image {
+    position: relative;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    order: 2;
+
+    img {
+      border-radius: 12px;
+      box-shadow: 0 8px 20px rgba(11, 18, 32, 0.1) !important;
+      object-fit: cover;
+      width: 100%;
+      max-width: 400px;
+    }
+
+    .badge {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      z-index: 2;
+      margin: 0 !important;
+      padding: 0.28em 0.7em !important;
+      border-radius: 99px;
+      background: var(--xc-grad) !important;
+      background-color: transparent !important;
+      color: #fff !important;
+      font-size: 0.72em !important;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      box-shadow: 0 6px 16px rgba(59, 111, 245, 0.28);
+    }
+  }
+
+  .paper-box-text {
+    max-width: 100%;
+    order: 1;
+
+    a {
+      color: var(--xc-ink);
+      font-weight: 700;
+      text-decoration: none;
+
+      &:hover {
+        color: var(--xc-blue);
+        text-decoration: none;
+      }
+    }
+
+    /* Action links render as <a><strong>Paper</strong></a> etc. */
+    a:has(strong),
+    a:has(b) {
+      display: inline-block;
+      margin: 0.15em 0.2em 0.15em 0;
+      padding: 0.28em 0.72em;
+      border: 1px solid var(--xc-line);
+      border-radius: 99px;
+      background: #F2F5FC;
+      color: var(--xc-blue) !important;
+      font-size: 0.82em;
+      font-weight: 600;
+      line-height: 1.4;
+      text-decoration: none !important;
+      transition: border-color 0.2s ease, background 0.2s ease, color 0.2s ease, transform 0.2s ease;
+
+      strong,
+      b {
+        font-weight: 600;
+      }
+
+      &:hover {
+        border-color: var(--xc-blue);
+        background: #EEF3FF;
+        color: var(--xc-blue) !important;
+        transform: translateY(-1px);
+      }
+    }
+  }
+
+  @include breakpoint($medium) {
+    .paper-box-image {
+      justify-content: flex-start;
+      min-width: 200px;
+      max-width: 40%;
+      order: 1;
+    }
+
+    .paper-box-text {
+      justify-content: flex-start;
+      text-align: justify;
+      padding-left: 1em;
+      max-width: 60%;
+      order: 2;
+    }
+  }
+}
+
+/* Star badges inside paper cards */
+.paper-box-text img[src*="shields.io"] {
+  vertical-align: middle;
+  margin-left: 0.15em;
+}
+
+/* --------------------------------------------------------------------------
+   Other publications list + services
+   -------------------------------------------------------------------------- */
+
+.page__content {
+  hr {
+    border: 0;
+    border-top: 1px solid var(--xc-line);
+    margin: 1.25em 0;
+  }
+
+  h2 {
+    font-weight: 800;
+    color: var(--xc-ink);
+    letter-spacing: -0.01em;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Reveal on scroll
+   -------------------------------------------------------------------------- */
+
+.xc-reveal {
+  opacity: 0;
+  transform: translateY(18px);
+  transition: opacity 0.65s ease, transform 0.65s ease;
+}
+
+.xc-reveal.xc-on {
+  opacity: 1;
+  transform: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .xc-reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+
+  .paper-box:hover {
+    transform: none;
+  }
+}
